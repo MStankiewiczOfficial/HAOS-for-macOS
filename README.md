@@ -8,7 +8,7 @@ Run Home Assistant Operating System virtualization on Macs with Apple Silicon pr
 
 ## Instalation
 1. Download the latest HAOS release [from here](https://github.com/MStankiewiczOfficial/HAOS-for-macOS/releases/latest) or clone the repository.
-2. Move the HAOS.utm file to the location where you want the virtual machine to reside.
+2. Unpack the HAOS.utm.tar.xz file to the location where you want the virtual machine to reside.
 3. Open UTM app.
 4. Click *Create new virtual machine*.
 5. At the bottom, click *Open* and select the HAOS.utm file.
